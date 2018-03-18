@@ -1,0 +1,39 @@
+#wrapper{
+    /* background: linear-gradient(gray, black); */
+    width: 1000px;
+    height: 1000px;
+}
+#text{
+    display: inline-block;
+    background: darkred;
+    width: 400px;
+    height: 100px;
+    margin-left: 303px;
+    border: black 3px solid;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.line{
+    width: 400px;
+    height: 100px;
+    background: red;
+    margin-left: 300px;
+    border: black 3px solid;
+    display: inline-block;
+    margin-top: 20px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    display:inline-block;
+    margin: 5px;
+    font-size: 35px;
+    color: white;
+}
+img{
+    margin-left: 304px;
+    margin-top: 21px;
+    width: 397px;
+}
